@@ -1,11 +1,10 @@
 # Eyes-Excercise
 
-## Description: This project is meant to show cast programming abilities in my current development process. Is currently in progress as I go through my certification.
+## Description: This project is meant to show the Styles habilities in CSS learned and the dynamics in real time in reference to another attribute of the interface in this case the mouse pointer.
+
 ## Installation: N/A
 
-
-## Usage: To see all the potential usage of my coding abilities.
-
+## Usage: Move around the pointer of the mouse and you will se how the eyes track the pointer.
 
 ## Support: Liamroal @ Github
 
