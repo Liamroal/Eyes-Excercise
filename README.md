@@ -9,7 +9,7 @@
 ## Support: Liamroal @ Github
 
 
-## Roadmap: Constant changes. Dec2021
+## Roadmap: Constant changes. Next improvement Start/Stop Button Dec2021
 
 
 License information: This is intended to showcast recruiters the support I can provide through programming skills.
